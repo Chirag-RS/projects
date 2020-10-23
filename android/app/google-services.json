@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923664457986",
+    "firebase_url": "https://wallpapers-1bc1c.firebaseio.com",
+    "project_id": "wallpapers-1bc1c",
+    "storage_bucket": "wallpapers-1bc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923664457986:android:9f04c1c6780d46c812221b",
+        "android_client_info": {
+          "package_name": "wallpapers.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923664457986-tajq9u1gtl5iqifam0hfvmvoq36e1r13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALH29IhrmkgO-_4imyQ-3SZSbL-_HB_zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923664457986-tajq9u1gtl5iqifam0hfvmvoq36e1r13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
