@@ -25,6 +25,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+
       appBar: AppBar(
         title: Text('JustChess'),
       ),body: Center(
@@ -40,6 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
               print(color);
             },
             onDraw:() {
+
               print("DRAW!");
             } ,
             size: MediaQuery.of(context).size.width,
